@@ -1,6 +1,5 @@
 import json as j
 
-# the data in another file
 data = j.loads("""
 {
     "id":101,
